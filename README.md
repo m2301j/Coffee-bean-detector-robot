@@ -18,3 +18,13 @@ October 20: Having layed out what the robot would do, how it would do it, and wh
 This robot will increase productivity, reduce costs, optimize resource use, and make daily work easier, making coffee farming more profitable, modern, and sustainable.
 
 October 21: 
+
+# Finished Prototype 
+<img width="500" height="400" alt="Captura de pantalla 2025-11-28 222255" src="https://github.com/user-attachments/assets/a36d442d-9a55-45d8-98c9-db5c809d6233" />
+<img width="500" height="400" alt="Captura de pantalla 2025-11-28 222400" src="https://github.com/user-attachments/assets/d8732123-5248-4597-a55a-9eec52db0ce8" />
+
+# Codes Used 
+
+
+
+
